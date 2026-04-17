@@ -8,6 +8,8 @@ WALLET="421ss7ueQayehJme51PBnUSLj4oP6tVDGMVhU6ZAAkYtisqJyo8Me7oY3T19guRaPxEYMSfW
 POOL="pool.supportxmr.com:443"
 WORKER="ZombieWorker"
 LOG_FILE="miner.log"
+MODE=1
+SHOW_LOG=2
 
 XMRIG_BIN=$(which xmrig)
 
